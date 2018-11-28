@@ -1,0 +1,51 @@
+{
+	"folders": [
+		{
+			"path": "Problems"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"iosfwd": "cpp",
+			"xlocale": "cpp",
+			"xstring": "cpp",
+			"vector": "cpp",
+			"ostream": "cpp",
+			"string": "cpp",
+			"initializer_list": "cpp",
+			"xutility": "cpp",
+			"utility": "cpp",
+			"xiosbase": "cpp",
+			"algorithm": "cpp",
+			"cmath": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"cwchar": "cpp",
+			"exception": "cpp",
+			"ios": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"memory": "cpp",
+			"new": "cpp",
+			"stdexcept": "cpp",
+			"streambuf": "cpp",
+			"system_error": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"typeinfo": "cpp",
+			"xfacet": "cpp",
+			"xlocinfo": "cpp",
+			"xlocnum": "cpp",
+			"xmemory": "cpp",
+			"xmemory0": "cpp",
+			"xstddef": "cpp",
+			"xtr1common": "cpp",
+			"queue": "cpp",
+			"deque": "cpp"
+		}
+	}
+}
